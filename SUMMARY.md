@@ -8,11 +8,16 @@
 * [1.2. 프로젝트 설정하기](project/1.2..md)
 * [1.3. 프로젝트 빌드하기](project/1.3..md)
 * [1.4. Spring Boot devtools](project/1.4.-spring-boot-devtools.md)
+* [1.5. application.properties](project/application.properties.md)
 
 ## 2. Controller <a id="2.-controller-1"></a>
 
 * [2.1. Controller 일단 생성해보기](2.-controller-1/2.1.-controller.md)
-* [2.2. HTTP 요청에서 데이터 받기](2.-controller-1/2.2.-http.md)
+* [2.2. HTTP 요청에서 데이터 추출](2.-controller-1/2.2.-http.md)
 * [2.3. HTTP 응답하기](2.-controller-1/2.3.-http.md)
-* [application.properties](2.-controller-1/application.properties.md)
+
+## 3. JDBC with MySQL
+
+* [3.1. DB와 연결](3.-jdbc-with-mysql/3.1.-db.md)
+* [3.2. JdbcTemplate](3.-jdbc-with-mysql/3.2.-jdbctemplate.md)
 
